@@ -1,3 +1,3 @@
 # AIKT-Name_Entity_Recognition
 
-Waiting to be updated.
+Waiting to be updated...
